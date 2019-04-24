@@ -1,0 +1,4 @@
+c:\users\comp11\documents\visual studio 2010\Projects\webservices\WebApplication1\bin\WebApplication1.dll
+c:\users\comp11\documents\visual studio 2010\Projects\webservices\WebApplication1\bin\WebApplication1.pdb
+c:\users\comp11\documents\visual studio 2010\Projects\webservices\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\comp11\documents\visual studio 2010\Projects\webservices\WebApplication1\obj\Debug\WebApplication1.pdb
